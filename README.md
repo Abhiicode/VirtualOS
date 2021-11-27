@@ -31,7 +31,7 @@ Now that GO and Fyne are installed in your OS you are ready to build the virtual
 > You must be connected to a stable internet connection to build and run the application.
 
 
-1. Download the [code](https://github.com/madhur3u/GOVirtualDesktop) and place it in a folder.
+1. Download the [code](https://github.com/Abhiicode/VirtualOS) and place it in a folder.
 2. Now open terminal in this folder and execute the following command.
 ```go
 go build main.go calc.go notes.go gallery.go password.go weather.go music.go numbergame.go getTime.go
@@ -40,18 +40,18 @@ go build main.go calc.go notes.go gallery.go password.go weather.go music.go num
 4. Open the main executable file and your virtual desktop environment will open.
 
 ## Working
-The applications are made in different files and then their functions are called in [main.go](https://github.com/madhur3u/GOVirtualDesktop/blob/main/main.go) file to integrate them into the virtual desktop. The icons used in the main screen are loaded from net and all other images used for app background are included in code folder. 
+The applications are made in different files and then their functions are called in [main.go](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/main.go) file to integrate them into the virtual desktop. The icons used in the main screen are loaded from net and all other images used for app background are included in code folder. 
 
 Codes for applications -
-1. [Main File](https://github.com/madhur3u/GOVirtualDesktop/blob/main/main.go)
-2. [Date Time Module](https://github.com/madhur3u/GOVirtualDesktop/blob/main/getTime.go)
-3. [Calculator](https://github.com/madhur3u/GOVirtualDesktop/blob/main/calc.go)
-4. [Notepad](https://github.com/madhur3u/GOVirtualDesktop/blob/main/notes.go)
-5. [Gallery](https://github.com/madhur3u/GOVirtualDesktop/blob/main/gallery.go)
-6. [Weather](https://github.com/madhur3u/GOVirtualDesktop/blob/main/weather.go)
-7. [Password Generator](https://github.com/madhur3u/GOVirtualDesktop/blob/main/password.go)
-8. [Music Player](https://github.com/madhur3u/GOVirtualDesktop/blob/main/music.go)
-9. [Number Game](https://github.com/madhur3u/GOVirtualDesktop/blob/main/numbergame.go)
+1. [Main File](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/main.go)
+2. [Date Time Module](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/getTime.go)
+3. [Calculator](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/calc.go)
+4. [Text Editor](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/textEditor.go)
+5. [Gallery](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/galleryApp.go)
+6. [Weather](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/weatherApp.go)
+7. [Theme Changer](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/main.go)
+8. [Music Player](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/musicApp.go)
+9. [Background Image Changer](https://github.com/Abhiicode/VirtualOS/blob/b1b95de8a30bdcb896295184c265fb2742f50852/main.go)
 
 ## Screenshots
 
@@ -62,3 +62,10 @@ Codes for applications -
 ![Screenshot from 2021-11-27 10-43-16](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(87).png)
 ![Screenshot from 2021-11-27 10-43-22](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(88).png)
 ![Screenshot from 2021-11-27 10-43-29](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(89).png)
+
+## Contact Information
+
+I hope you like this. If you want you can modify or add features in the applications according to your preferences.
+If you have any query, suggestion, doubts etc., you can contact me on the links given below.
+
+<img src="https://user-images.githubusercontent.com/89251393/138821704-5538f667-ca94-4d9f-ad49-b3c48e1cdb0c.png" width="15"/> [LinkedIn](https://www.linkedin.com/in/abhishek-2020/)<br> <img src="https://user-images.githubusercontent.com/89251393/138821710-7b7585e0-4766-49ba-8543-c116d4da82c4.png" width="15"/> [Instagram](https://www.instagram.com/abhi_senpai_/) <br><img src="https://user-images.githubusercontent.com/89251393/138821715-eab2496c-e895-4113-a26b-96c087a83d9b.png" width="15"/>abhiabhii2000@gmail.com <br><img src="https://user-images.githubusercontent.com/89251393/138822281-9aaf6bdc-2fe0-469a-bd31-ed43bc96dcc2.png" width="15"/> [@Abhiiii2000](https://web.telegram.org/)
