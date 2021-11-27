@@ -63,12 +63,3 @@ Codes for applications -
 ![Screenshot from 2021-11-04 10-43-22](https://user-images.githubusercontent.com/89251393/140261627-489e9fe3-5e1e-40b3-a5c0-0cb092533084.png)
 ![Screenshot from 2021-11-04 10-43-29](https://user-images.githubusercontent.com/89251393/140261649-4bec4a93-3796-4866-bc2d-00ab5685ef0d.png)
 ![Screenshot from 2021-11-04 10-43-44](https://user-images.githubusercontent.com/89251393/140261660-3b5d880e-aa4e-4b13-ba12-686c0ce18136.png)
-
-## Contact Information
-
-I hope you like this. If you want you can modify or add features in the applications according to your preferences.
-If you have any query, suggestion, doubts etc., you can contact me on the links given below.
-
-<img src="https://user-images.githubusercontent.com/89251393/138821704-5538f667-ca94-4d9f-ad49-b3c48e1cdb0c.png" width="15"/> [LinkedIn](https://www.linkedin.com/in/madhur3u/)<br> <img src="https://user-images.githubusercontent.com/89251393/138821710-7b7585e0-4766-49ba-8543-c116d4da82c4.png" width="15"/> [Instagram](https://www.instagram.com/madhur3u/) <br><img src="https://user-images.githubusercontent.com/89251393/138821715-eab2496c-e895-4113-a26b-96c087a83d9b.png" width="15"/> m3333u@gmail.com <br><img src="https://user-images.githubusercontent.com/89251393/138822281-9aaf6bdc-2fe0-469a-bd31-ed43bc96dcc2.png" width="15"/> [@madhur3u](https://web.telegram.org/)
-
-<!-- <img src="" width="123"/>  -->
