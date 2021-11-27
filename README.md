@@ -55,11 +55,10 @@ Codes for applications -
 
 ## Screenshots
 
-![Screenshot from 2021-11-04 10-41-20](https://user-images.githubusercontent.com/89251393/140261587-10c8bd70-f8d3-49f8-93a5-31249758de1e.png)
-![Screenshot from 2021-11-04 10-42-57](https://user-images.githubusercontent.com/89251393/140261596-5a91210e-2562-40aa-af28-941cce00e0ab.png)
-![Screenshot from 2021-11-04 10-43-04](https://user-images.githubusercontent.com/89251393/140261606-e1f6e7ec-44c6-499b-9883-91b79df7f125.png)
-![Screenshot from 2021-11-04 10-43-10](https://user-images.githubusercontent.com/89251393/140261611-2b26db7f-26ac-41d5-bb9d-ebff837681b1.png)
-![Screenshot from 2021-11-04 10-43-16](https://user-images.githubusercontent.com/89251393/140261620-ace44920-fcbc-4dca-bd53-5841af8ad773.png)
-![Screenshot from 2021-11-04 10-43-22](https://user-images.githubusercontent.com/89251393/140261627-489e9fe3-5e1e-40b3-a5c0-0cb092533084.png)
-![Screenshot from 2021-11-04 10-43-29](https://user-images.githubusercontent.com/89251393/140261649-4bec4a93-3796-4866-bc2d-00ab5685ef0d.png)
-![Screenshot from 2021-11-04 10-43-44](https://user-images.githubusercontent.com/89251393/140261660-3b5d880e-aa4e-4b13-ba12-686c0ce18136.png)
+![Screenshot from 2021-11-27 10-41-20](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(83).png)
+![Screenshot from 2021-11-27 10-42-57](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(84).png)
+![Screenshot from 2021-11-27 10-43-04](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(85).png)
+![Screenshot from 2021-11-27 10-43-10](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(86).png)
+![Screenshot from 2021-11-27 10-43-16](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(87).png)
+![Screenshot from 2021-11-27 10-43-22](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(88).png)
+![Screenshot from 2021-11-27 10-43-29](https://github.com/Abhiicode/VirtualOS/blob/4f753fcfacae1204fbb71e0b0978a60831e39545/ProjectScreens/Screenshot%20(89).png)
